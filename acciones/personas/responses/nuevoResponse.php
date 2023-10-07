@@ -1,5 +1,5 @@
 <?php
 
-class NuevoResponse{
-    public $;
+class NuevoResponse {
+    public $IsOk;
 }
